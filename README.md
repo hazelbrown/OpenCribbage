@@ -3,7 +3,7 @@ Well, here it is guys. This is the github page for OpenCribbage. For those of yo
 
 ## Coders:
 * Hazelbrown
-* Neilthecoder
+* Neilthecoder - [neilparikh on github](https://github.com/neilparikh)
 * SirBananaRock
 * toomanynames
 * jackpn
